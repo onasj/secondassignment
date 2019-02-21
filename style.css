@@ -1,0 +1,34 @@
+.redtext{
+    color: #ff3333;
+}
+
+#bluetext {
+    color: aqua;
+}
+
+#greentext {
+    color: darkgreen;
+}
+
+#purple {
+    background-color: blueviolet;
+}
+
+#yellow {
+    background-color: yellow;
+}
+
+/*
+div {
+    background-color:aqua
+}
+*/
+
+span {
+    color: sandybrown;
+}
+
+body {
+/*    background-color: grey;*/
+    background-image: url(https://www.muralswallpaper.com/app/uploads/watercolour-polka-dot-plain.jpg)
+}
